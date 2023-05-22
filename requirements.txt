@@ -11,3 +11,4 @@ olefile
 lk21
 filetype
 tldextract
+python-3.8.6
